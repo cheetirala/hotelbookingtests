@@ -1,0 +1,4 @@
+Hotel Booking
+In order to manage hotel bookings
+As a user
+I want to be able to add or delete a booking
